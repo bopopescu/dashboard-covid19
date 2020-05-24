@@ -255,8 +255,8 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 server = flask.Flask(__name__)
 app = dash.Dash(__name__, server=server, external_stylesheets=external_stylesheets)
 
-app = dash.Dash(__name__)
-server = app.server
+# app = dash.Dash(__name__)
+# server = app.server
 
 # Confirmed cases
 fig1 = px.choropleth(df, locations="ISO-3166 code", 
