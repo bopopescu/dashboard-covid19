@@ -1,3 +1,22 @@
+# https://dashboard-covid19-rl.herokuapp.com/
+# Pour l'instant, erreur lors du lancement
+
+# Ressources dashboard déployé : 
+# https://dash.plotly.com/deployment
+# https://stackoverflow.com/questions/18406721/heroku-does-not-appear-to-be-a-git-repository 
+# https://devcenter.heroku.com/articles/git
+# https://devcenter.heroku.com/articles/getting-started-with-python?singlepage=true
+
+
+
+
+
+
+
+
+
+
+
 # import os
 
 # import dash
